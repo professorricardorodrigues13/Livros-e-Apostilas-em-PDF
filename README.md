@@ -1,2 +1,2 @@
 # Livros e Apostilas em PDF
- Material de estudo de linguagens de programação e tecnologias em geral.
+ Material de *estudo de Linguagens* de **Programação** e **Tecnologias** em geral.
